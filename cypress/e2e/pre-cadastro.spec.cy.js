@@ -7,9 +7,6 @@ beforeEach(() => {
     cy.visit('minha-conta/')
 });
 
-afterEach(() => {
-    cy.screenshot()
-});
 
     it.only('Deve completar o pré-cadastro com sucesso', () => {
         
