@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "Schueler",
+        "empresa": "SCH",
+        "numero": "020",
+        "pais": "Brasil",
+        "endereco": "rua cai do pé",
+        "cidade": "Chapecó",
+        "estado": "Santa Catarina",
+        "cep": "99887000",
+        "telefone": "49987654123",
+        "email": "ana@ebac.com"
+        
+    },
+    {
+        "nome": "Renata",
+        "sobrenome": "Witcher",
+        "empresa": "EBAC",
+        "numero": "020",
+        "pais": "Brasil",
+        "endereco": "rua cai do pé",
+        "cidade": "Chapecó",
+        "estado": "Santa Catarina",
+        "cep": "99887000",
+        "telefone": "49987654123",
+        "email": "renata@ebac.com"
+    },
+    {
+        "nome": "Bruna",
+        "sobrenome": "Potter",
+        "empresa": "HP",
+        "numero": "934",
+        "pais": "Brasil",
+        "endereco": "rua cai do pé",
+        "cidade": "Chapecó",
+        "estado": "Santa Catarina",
+        "cep": "99887000",
+        "telefone": "49987654123",
+        "email": "Bruna@ebac.com"
+    }
+
+
+]
