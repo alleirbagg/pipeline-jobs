@@ -4,7 +4,7 @@ pipeline {
     stages{
         stage('Clonar repositorio') {
             steps {
-                git branch: 'main', url: 'https://github.com/alleirbagg/teste-ebac-ui'
+                git branch: 'main', url: 'https://github.com/alleirbagg/pipeline-jobs.git'
             }
         }
 
